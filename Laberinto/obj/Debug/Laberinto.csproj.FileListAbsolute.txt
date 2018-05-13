@@ -1,0 +1,19 @@
+C:\Users\antonio\Documents\Escuela\IHC\Interfaz 2da Laberinto\Laberinto\Laberinto\bin\Debug\Laberinto.exe.config
+C:\Users\antonio\Documents\Escuela\IHC\Interfaz 2da Laberinto\Laberinto\Laberinto\bin\Debug\Laberinto.exe
+C:\Users\antonio\Documents\Escuela\IHC\Interfaz 2da Laberinto\Laberinto\Laberinto\bin\Debug\Laberinto.pdb
+C:\Users\antonio\Documents\Escuela\IHC\Interfaz 2da Laberinto\Laberinto\Laberinto\bin\Debug\WiimoteLib.dll
+C:\Users\antonio\Documents\Escuela\IHC\Interfaz 2da Laberinto\Laberinto\Laberinto\obj\Debug\Laberinto.csprojResolveAssemblyReference.cache
+C:\Users\antonio\Documents\Escuela\IHC\Interfaz 2da Laberinto\Laberinto\Laberinto\obj\Debug\Laberinto.Form1.resources
+C:\Users\antonio\Documents\Escuela\IHC\Interfaz 2da Laberinto\Laberinto\Laberinto\obj\Debug\Laberinto.Properties.Resources.resources
+C:\Users\antonio\Documents\Escuela\IHC\Interfaz 2da Laberinto\Laberinto\Laberinto\obj\Debug\Laberinto.csproj.GenerateResource.Cache
+C:\Users\antonio\Documents\Escuela\IHC\Interfaz 2da Laberinto\Laberinto\Laberinto\obj\Debug\Laberinto.exe
+C:\Users\antonio\Documents\Escuela\IHC\Interfaz 2da Laberinto\Laberinto\Laberinto\obj\Debug\Laberinto.pdb
+C:\Users\Edsel\Downloads\Interfaz 2da Laberinto\Interfaz 2da Laberinto\Laberinto\Laberinto\bin\Debug\Laberinto.exe.config
+C:\Users\Edsel\Downloads\Interfaz 2da Laberinto\Interfaz 2da Laberinto\Laberinto\Laberinto\obj\Debug\Laberinto.exe
+C:\Users\Edsel\Downloads\Interfaz 2da Laberinto\Interfaz 2da Laberinto\Laberinto\Laberinto\obj\Debug\Laberinto.pdb
+C:\Users\Edsel\Downloads\Interfaz 2da Laberinto\Interfaz 2da Laberinto\Laberinto\Laberinto\bin\Debug\Laberinto.exe
+C:\Users\Edsel\Downloads\Interfaz 2da Laberinto\Interfaz 2da Laberinto\Laberinto\Laberinto\bin\Debug\Laberinto.pdb
+C:\Users\Edsel\Downloads\Interfaz 2da Laberinto\Interfaz 2da Laberinto\Laberinto\Laberinto\obj\Debug\Laberinto.csprojResolveAssemblyReference.cache
+C:\Users\Edsel\Downloads\Interfaz 2da Laberinto\Interfaz 2da Laberinto\Laberinto\Laberinto\obj\Debug\Laberinto.Form1.resources
+C:\Users\Edsel\Downloads\Interfaz 2da Laberinto\Interfaz 2da Laberinto\Laberinto\Laberinto\obj\Debug\Laberinto.Properties.Resources.resources
+C:\Users\Edsel\Downloads\Interfaz 2da Laberinto\Interfaz 2da Laberinto\Laberinto\Laberinto\obj\Debug\Laberinto.csproj.GenerateResource.Cache
